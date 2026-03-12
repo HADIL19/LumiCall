@@ -1,1 +1,3 @@
 # LumiCall
+
+Flutter + FastApi + FireBase 
