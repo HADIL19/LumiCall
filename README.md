@@ -1,3 +1,3 @@
 # LumiCall
 
-Flutter + FastApi + FireBase + FlutterFlow
+Flutter + FastApi + FireBase + FlutterFlow + Docker
